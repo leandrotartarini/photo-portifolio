@@ -1,6 +1,6 @@
-#Photo Portfolio
+# Photo Portfolio
 
-Project to study git
+> Project to study git.
 
 Big Picture by HTML5 UP
 
